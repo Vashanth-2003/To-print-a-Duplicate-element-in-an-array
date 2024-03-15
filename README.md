@@ -1,0 +1,1 @@
+# To-print-a-Duplicate-element-in-an-array
